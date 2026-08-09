@@ -3,3 +3,9 @@ Implemented features including account management, deposits, withdrawals, fund t
 Added data handling and validation to support basic banking operations.
 
 Technologies: Python, JSON, Local Database.
+
+Run Project:
+1. open XAMPP Control Start Apache and MySQL
+2. Click Admin to MySQL
+3. open Terminal of vs code  and run command : python Bank_Application_System.py
+
