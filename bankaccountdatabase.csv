@@ -1,0 +1,8 @@
+"account_number","name","balance","pin","account_type","interest_rate"
+"32707076107","Meet kachhadiya","-16.4448","3638","Savings","3.2"
+"loan_id","account_number","loan_type","loan_amount","interest_rate","tenure","remaining_amount","status"
+"id","account_number","type","amount","timestamp"
+"1","32707076107","Interest","73.6","2026-08-07 16:44:01"
+"2","32707076107","Interest","75.9552","2026-08-07 16:44:13"
+"3","32707076107","Penalty","100","2026-08-07 16:44:40"
+"4","32707076107","Withdrawal","2366","2026-08-07 16:44:40"
