@@ -9,3 +9,7 @@ Run Project:
 2. Click Admin to MySQL
 3. open Terminal of vs code  and run command : python Bank_Application_System.py
 
+Default user login
+Enter choice: 2
+Enter your account number: 32707076107
+Enter PIN: 3638
