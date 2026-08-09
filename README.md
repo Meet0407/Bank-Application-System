@@ -10,7 +10,7 @@ Run Project:
 3. open Terminal of vs code  and run command : python Bank_Application_System.py
 
 Default user login
-Enter choice: 2
-Enter your account number: 32707076107
-Enter PIN: 3638
+1. Enter choice: 2
+2. Enter your account number: 32707076107
+3. Enter PIN: 3638
 
